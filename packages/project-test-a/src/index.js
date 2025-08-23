@@ -1,5 +1,5 @@
-// Empty entrypoint for project-a
+// Empty entrypoint for project-test-a
 import { projectTestCore } from 'project-test-core';
 
-export const projectA = 'project-test-a';
+export const projectTestA = 'project-test-a';
 export { projectTestCore };
