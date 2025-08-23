@@ -18,5 +18,5 @@ export default {
     resolve(),
     commonjs()
   ],
-  external: ['project-core']
+  external: ['project-test-core']
 };

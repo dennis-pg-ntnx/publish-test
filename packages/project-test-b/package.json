@@ -1,7 +1,7 @@
 {
-  "name": "project-a",
+  "name": "project-b",
   "version": "0.1.0",
-  "description": "Project A library",
+  "description": "Project B library",
   "type": "module",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -15,7 +15,7 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "project-core": "^1.0.0"
+    "project-test-core": "^0.0.1"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.0",
@@ -24,5 +24,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "9ac8adfb6218aed02b532d582b3ce80d91a15f4e"
 }
