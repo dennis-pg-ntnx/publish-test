@@ -1,0 +1,19 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "command": {
+    "version": {
+      "allowBranch": ["main"]
+    },
+    "publish": {
+      "conventionalCommits": true,
+      "ignoreChanges": [
+        "**/*.md"
+      ],
+      "message": "chore(release): release",
+      "registry": "http://34.55.67.58:4873"
+    }
+  }
+}
