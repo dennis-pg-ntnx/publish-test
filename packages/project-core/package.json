@@ -2,6 +2,7 @@
   "name": "project-core",
   "version": "1.0.0",
   "description": "Core shared library",
+  "type": "module",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
@@ -16,9 +17,7 @@
   "devDependencies": {
     "rollup": "^4.0.0",
     "@rollup/plugin-commonjs": "^25.0.0",
-    "@rollup/plugin-node-resolve": "^15.0.0",
-    "@rollup/plugin-typescript": "^11.0.0",
-    "typescript": "^5.0.0"
+    "@rollup/plugin-node-resolve": "^15.0.0"
   },
   "publishConfig": {
     "access": "public"
