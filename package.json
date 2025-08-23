@@ -12,7 +12,6 @@
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
     "clean": "lerna clean",
-    "publish": "lerna publish",
     "version": "lerna version"
   }
 }
