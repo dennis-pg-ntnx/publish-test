@@ -5,7 +5,7 @@
   "version": "independent",
   "command": {
     "version": {
-      "allowBranch": ["main"]
+      "allowBranch": ["main", "publish/release", "publish/canary"]
     },
     "publish": {
       "conventionalCommits": true,
@@ -13,7 +13,7 @@
         "**/*.md"
       ],
       "message": "chore(release): release",
-      "registry": "http://34.55.67.58:4873"
+      "registry": "http://34.69.137.126:4873"
     }
   }
 }
