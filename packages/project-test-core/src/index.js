@@ -1,3 +1,3 @@
 // Empty entrypoint for project-test-core
-// Dummy change
+// minor dummy change
 export const projectTestCore = 'project-test-core';
