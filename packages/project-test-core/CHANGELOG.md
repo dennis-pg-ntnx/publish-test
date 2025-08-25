@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/dennis-pg-ntnx/publish-test/compare/project-test-core@0.0.2...project-test-core@0.1.0) (2025-08-25)
+
+
+### Bug Fixes
+
+* dummy change in core & test-b ([f9af206](https://github.com/dennis-pg-ntnx/publish-test/commit/f9af2061e9088c8be4a8b3158d0b9ab84cf1543d))
+
+
+### Features
+
+* dummy change in test-core ([9327f14](https://github.com/dennis-pg-ntnx/publish-test/commit/9327f14c3b1b4b3ca7dc3e0d3ab116d8b30957f7))
+
+
+
+
+
 ## 0.0.2 (2025-08-23)
 
 

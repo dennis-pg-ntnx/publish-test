@@ -1,6 +1,6 @@
 {
   "name": "project-test-a",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Project A library",
   "type": "module",
   "main": "dist/index.cjs.js",
@@ -15,7 +15,7 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "project-test-core": "^0.0.2"
+    "project-test-core": "^0.1.0"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.0",
